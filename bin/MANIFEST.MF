@@ -1,0 +1,6 @@
+MIDlet-1: ELM327, ELM327.png, com.github.johnathana.elm327.EML327MIDlet
+MIDlet-Name: ELM327
+MIDlet-Vendor: johnathana@gmail.com
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
